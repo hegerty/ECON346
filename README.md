@@ -2,7 +2,7 @@
 
 I taught Economics 346, “Applied Economic Statistics Using R,”  at Northeastern during the Fall 2019 semester. 
 
-It will be offered **Fall 2021, TR 5:50-6:55**.
+It will be offered **Fall 2021, TR 5:40-6:55**.
 
 Here is the [syllabus](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmQxZTA1ODk1ZWIxMzdjNQ), as well as a [course outline](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6N2I5YTRlYTg5Y2MwMGExZA) that showed the topics covered lecture by lecture, and these [lecture notes](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmJlNjRjY2NhYjViNDZhMw) for the main topics. 
 
