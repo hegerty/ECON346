@@ -11,14 +11,14 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
 ## Lectures and Videos
 1. [A Very Basic Introduction to R and RStudio](https://youtu.be/is5BXo0HfZs)                                           
 2. [Calculating Real GDP and Growth in R](https://youtu.be/orqhOGiHDZQ)                                                   
-3. [Basic Summary Statistics in R](https://youtu.be/C4K31VFDb1s) [[.pdf: statistical formulas](http://integral-table.com/downloads/stats.pdf)]                                      
-4. [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) [[.pdf: understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]                             
+3. [Basic Summary Statistics in R](https://youtu.be/C4K31VFDb1s) [.pdf: [statistical formulas](http://integral-table.com/downloads/stats.pdf)]                                      
+4. [Calculating Correlations in R](https://youtu.be/9Y6yFliG1Fg) [.pdf: [understanding correlations](https://www.japi.org/article/files/principles_of_correlation_analysis.pdf)]                             
 5. [Basic Data Visualization in R](https://youtu.be/z_qFjlDm8Sc)                                                                              
 6. [Basic Data Visualization and Customization in R]()                                                   
-7. [Visualizing Statistical Distributions in R](https://youtu.be/qG7hByQnzuY) [[.pdf: Compendium of distributions](https://www.causascientia.org/math_stat/Dists/Compendium.pdf)]    
+7. [Visualizing Statistical Distributions in R](https://youtu.be/qG7hByQnzuY) [.pdf: [Compendium of distributions](https://www.causascientia.org/math_stat/Dists/Compendium.pdf)]    
    [Generating a Chi-Square Distribution in R using a for() Loop](https://youtu.be/PF6dXy_dk-k)                                  
 
-8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)  [[.pdf: A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
+8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)  [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
 
 9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                                                          
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)                    
