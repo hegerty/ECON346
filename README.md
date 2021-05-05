@@ -20,7 +20,8 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
 
 8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)  [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
 
-9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                                                          
+9. [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw)
+   [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                                                          
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)                    
 
 10. [Regression Example: The Urban "Rank-Size-Rule" in R](https://youtu.be/ezufZhSoY7s)                                          
