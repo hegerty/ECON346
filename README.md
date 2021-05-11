@@ -1,12 +1,10 @@
 # ECON 346, Northeastern Illinois University
 
-I taught Economics 346, “Applied Economic Statistics Using R,”  at Northeastern during the Fall 2019 semester. 
+Economics 346, “Applied Economic Statistics Using R,” will be offered **Fall 2021, TR 5:40-6:55**. 
 
-It will be offered **Fall 2021, TR 5:40-6:55**.
+Here is the [syllabus](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmQxZTA1ODk1ZWIxMzdjNQ), as well as a [course outline](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6N2I5YTRlYTg5Y2MwMGExZA) that showed the topics covered lecture by lecture from the last time I taught it, and these [lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2021.pdf) for the main topics. 
 
-Here is the [syllabus](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6MmQxZTA1ODk1ZWIxMzdjNQ), as well as a [course outline](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxzd2hlZ2VydHl8Z3g6N2I5YTRlYTg5Y2MwMGExZA) that showed the topics covered lecture by lecture, and these [lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2021.pdf) for the main topics. 
-
-The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) and [Grolemund and Wickham](https://r4ds.had.co.nz/). I also plan on using this [open-source text](https://openstax.org/details/books/introductory-statistics) for background on statistics. Some additional outside readings are included below.
+The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) and [Grolemund and Wickham](https://r4ds.had.co.nz/). I also plan on using this [open-source text](https://openstax.org/details/books/introductory-statistics) for some background on statistics. Some additional outside readings are included below.
 
 ## Lectures and Videos
 1. [A Very Basic Introduction to R and RStudio](https://youtu.be/is5BXo0HfZs)                                           
