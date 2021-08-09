@@ -23,7 +23,9 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)                    
 
 10. [Regression Example: The Urban "Rank-Size-Rule" in R](https://youtu.be/ezufZhSoY7s)                                          
-    [Evaluating the "Rank-Size Rule" for Different Sample Sizes in R](https://youtu.be/lUyuoI9KiSI)
+    [Evaluating the "Rank-Size Rule" for Different Sample Sizes in R](https://youtu.be/lUyuoI9KiSI) 
+    
+11. Time series materials are "shared" with my [Econ 343](https://github.com/hegerty/ECON346) course.    
  
  ___
  More information at www.scotthegerty.com.
