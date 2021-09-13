@@ -23,7 +23,7 @@ barplot(data)
 #Now try a real data series
 #Inflation rates for Japan, Canada, UK, US
 #Import  CPI; create log difference series
-data1<-read.csv("https://sites.google.com/site/swhegerty/macroeconomic-data-analysis/Lab2levelsData.csv",header=TRUE)
+data1<-read.csv("https://github.com/hegerty/ECON346/blob/main/Lab2levelsData.csv",header=TRUE)
 data1<-data1[,-c(2:5)]
 data1<-as.matrix(data1)
 inf<-100*diff(log(data1[,2:5]))
