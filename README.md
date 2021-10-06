@@ -15,7 +15,6 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
 6. [Basic Data Visualization and Customization in R]()                                                   
 7. [Visualizing Statistical Distributions in R](https://youtu.be/qG7hByQnzuY) [.pdf: [Compendium of distributions](https://www.causascientia.org/math_stat/Dists/Compendium.pdf)]    
    [Generating a Chi-Square Distribution in R using a for() Loop](https://youtu.be/PF6dXy_dk-k)  
-   
    [Visualizing the Binomial Distribution Using R](https://youtu.be/TH1_bXRdWUQ)
 
 8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)  [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
