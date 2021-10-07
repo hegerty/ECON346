@@ -26,7 +26,7 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
 10. [Regression Example: The Urban "Rank-Size-Rule" in R](https://youtu.be/ezufZhSoY7s)                                          
     [Evaluating the "Rank-Size Rule" for Different Sample Sizes in R](https://youtu.be/lUyuoI9KiSI) 
     
-11. Time series materials are "shared" with my [Econ 343](https://github.com/hegerty/ECON346) course.    
+11. Time series materials are "shared" with my [Econ 343](https://github.com/hegerty/ECON343) course.    
  
  ___
  More information at www.scotthegerty.com.
