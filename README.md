@@ -2,7 +2,7 @@
 
 Economics 346, “Applied Economic Statistics Using R,” will be offered **Fall 2021, TR 5:40-6:55**. 
 
-Here is the [syllabus](https://drive.google.com/file/d/1ESHs-rjshdGSyyIKECmF_8COCm4mH1SE/view?usp=sharing), as well as a [course outline](https://drive.google.com/file/d/1ESHs-rjshdGSyyIKECmF_8COCm4mH1SE/view?usp=sharing) that show the topics covered lecture by lecture for Fall 2021, and these [lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2021.pdf) for the main topics. 
+Here is the [syllabus](https://github.com/hegerty/ECON346/blob/main/ECON346_Syl_F21.pdf), as well as a [course outline](https://github.com/hegerty/ECON346/blob/main/ECON346_CourseOutline_F21.pdf) that show the topics covered lecture by lecture for Fall 2021, and these [lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2021.pdf) for the main topics. 
 
 The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) and [Grolemund and Wickham](https://r4ds.had.co.nz/). I also plan on using this [open-source text](https://openstax.org/details/books/introductory-statistics) for some background on statistics. Some additional outside readings are included below.
 
