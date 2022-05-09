@@ -23,7 +23,7 @@ The corresponding .R files (numbered by lecture) are posted as well.
 
 8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g) &nbsp;&nbsp; [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
 
-9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                                                          
+9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U) &nbsp;&nbsp; [[Tutorial](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.md)]                                                           
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)                    
     **(NEW!)** [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw)  &nbsp;&nbsp; [[Excel file](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)]  
  10. [Regression Example: The Urban "Rank-Size-Rule" in R](https://youtu.be/ezufZhSoY7s)                                          
