@@ -1,5 +1,6 @@
 Understanding Regression Analysis
 ================
+ECON 346, NEIU (Scott W. Hegerty)
 
 The example matches a regression run using the base R command with one
 that uses linear algebra (also in R). We can calculate the beta
