@@ -26,6 +26,8 @@ The corresponding .R files (numbered by lecture) are posted as well.
 9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U) &nbsp;&nbsp; [[Tutorial](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.md)] &nbsp;&nbsp; [[Heteroskedasticity Tutorial](https://github.com/hegerty/ECON346/blob/main/Lec09_Heteroskedasticity.md)]                                                             
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)                    
     **(NEW!)** [Regression Concepts Explained](https://youtu.be/Io-tVaXpNkw)  &nbsp;&nbsp; [[Excel file](https://github.com/hegerty/ECON346/blob/main/Regression_Econ318_Data_Example.xlsx)]  
+    [Understanding Regression Coefficients](https://youtu.be/cBlOw1XWAtc)&nbsp;&nbsp;&nbsp;&nbsp; [[Tutorial]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.md) [[.R File]](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.R)  
+
  10. [Regression Example: The Urban "Rank-Size-Rule" in R](https://youtu.be/ezufZhSoY7s)                                          
     [Evaluating the "Rank-Size Rule" for Different Sample Sizes in R](https://youtu.be/lUyuoI9KiSI) 
     
