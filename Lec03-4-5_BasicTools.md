@@ -56,7 +56,7 @@ means
     ##   99.89802 1249.14586
 
 For the rest, we can use the *apply()* function. Note that “column” is
-“2” if you think of *(row, column)*
+“2” if you think of *(row, column)*. You could also do *sd(x)* or *sd(data[,1])* to get the standard deviation of *x*. The same goes for *mean()*, *max()*, etc. as well.
 
 ``` r
 sds<-apply(data,2,FUN="sd")
