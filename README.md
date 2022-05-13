@@ -9,6 +9,7 @@ Economics 346, “Applied Economic Statistics Using R,” was last offered durin
 The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) and [Grolemund and Wickham](https://r4ds.had.co.nz/). I also plan on using this [open-source text](https://openstax.org/details/books/introductory-statistics) for some background on statistics. Some additional outside readings are included below.
 
 ## Tutorials
+> [Basic Tools: Summary Statistics and Correlation](https://github.com/hegerty/ECON346/blob/main/Lec03-4-5_BasicTools.md)  
 > [Regression Analysis](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.md)  
 > [Regression Coefficients](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.md)  
 > [Heteroskedasticity](https://github.com/hegerty/ECON346/blob/main/Lec09_Heteroskedasticity.md)
