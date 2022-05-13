@@ -1,5 +1,6 @@
 Summary Statistics and Correlations
 ================
+ECON 346, NEIU (Scott W. Hegerty)
 
 This example shows how to calculate basic summary statistics for two
 variables, as well as the correlation between them, using R. We also
