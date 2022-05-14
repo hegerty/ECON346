@@ -10,6 +10,7 @@ The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/m
 
 ## Tutorials
 > [Basic Tools: Summary Statistics and Correlation](https://github.com/hegerty/ECON346/blob/main/Lec03-4-5_BasicTools.md)  
+> [Distributions and Hypothesis Testing](https://github.com/hegerty/ECON346/blob/main/Lec07-8_Distributions-HypTest.md)  
 > [Regression Analysis](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.md)  
 > [Regression Coefficients](https://github.com/hegerty/ECON310/blob/main/310_Regression_Coefficients.md)  
 > [Heteroskedasticity](https://github.com/hegerty/ECON346/blob/main/Lec09_Heteroskedasticity.md)
