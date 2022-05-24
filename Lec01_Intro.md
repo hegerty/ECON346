@@ -397,7 +397,7 @@ m2[which.max(m2$V3),]
     ## 4  4  8 12
 
 If you just want the second column from that, you can put it in the
-column position of \*\*rows, columns)\*
+column position of \*rows, columns)\*
 
 ``` r
 m2[which.max(m2$V3),2]
