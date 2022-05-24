@@ -292,7 +292,7 @@ m2
     ## 4  4  8 12
 
 The numbers on the left are row names, not numbers. It is not an
-additional variable. This is a coincidence that tehy match the numbers
+additional variable. This is a coincidence that they match the numbers
 in the first actual column of data. In time series, these could be
 dates.
 
