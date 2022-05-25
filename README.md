@@ -6,7 +6,10 @@ Economics 346, “Applied Economic Statistics Using R,” was last offered durin
 [Course outline](https://github.com/hegerty/ECON346/blob/main/ECON346_CourseOutline_F21.pdf) (Fall 2021)  
 [Lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2022.pdf)
 
-The suggested texts are by [Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf) and [Grolemund and Wickham](https://r4ds.had.co.nz/). I also plan on using this [open-source text](https://openstax.org/details/books/introductory-statistics) for some background on statistics. Some additional outside readings are included below.
+Suggested texts:  
+[Venables and Smith](https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf)  
+[Grolemund and Wickham](https://r4ds.had.co.nz/)  
+[Illowsky and Dean](https://openstax.org/details/books/introductory-statistics) (Introductory statistics)  
 
 ## Tutorials
 > [Basic R Operations](https://github.com/hegerty/ECON346/blob/main/Lec01_Intro.md)  
