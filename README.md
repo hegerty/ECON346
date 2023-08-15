@@ -19,7 +19,7 @@ Suggested texts:
 > [Heteroskedasticity](https://github.com/hegerty/ECON346/blob/main/Lec09_Heteroskedasticity.md)
 
 ## Lectures and Videos
-The corresponding .R files (numbered by lecture) are posted as well.
+The corresponding .R files (numbered by lecture) are posted as well. I may add some new ones as the term progresses.
 
 1. [A Very Basic Introduction to R and RStudio](https://youtu.be/is5BXo0HfZs)                                           
 2. [Calculating Real GDP and Growth in R](https://youtu.be/orqhOGiHDZQ)                                                   
