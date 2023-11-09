@@ -31,7 +31,9 @@ The corresponding .R files (numbered by lecture) are posted as well. I may add s
    [Generating a Chi-Square Distribution in R using a for() Loop](https://youtu.be/PF6dXy_dk-k)  
    [Visualizing the Binomial Distribution Using R](https://youtu.be/TH1_bXRdWUQ)   
    **(NEW!)** [Using R to Visualize the Poisson Distribution](https://youtu.be/wa9BWALlhOQ)   
-   **(NEW!)** [Using R to Visualize the F-Distribution](https://youtu.be/xdFnBoKsjHM)
+   **(NEW!)** [Using R to Visualize the F-Distribution](https://youtu.be/xdFnBoKsjHM)   
+   **(NEW!)** [Using dnorm() to compare the Normal and T-distributions in R](https://youtu.be/tRLoUgwFopk)
+https://youtu.be/tRLoUgwFopk
 9. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g) &nbsp;&nbsp; [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
 
 10. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)                                                  
