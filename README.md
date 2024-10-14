@@ -1,6 +1,6 @@
 # ECON 346, Northeastern Illinois University
 
-Economics 346, “Applied Economic Statistics Using R,”was offered during **Fall 2023, TR 5:40-6:55**, in-person in BBH 242. 
+Economics 346, “Applied Economic Statistics Using R,” was offered during **Fall 2023, TR 5:40-6:55**, in-person in BBH 242. 
 
 [Syllabus](https://github.com/hegerty/ECON346/blob/main/ECON346_Syl_F23.pdf) (Fall 2023)    
 [Lecture notes](https://github.com/hegerty/ECON346/blob/main/Applied_Economics_R_Notes_Hegerty_2022.pdf)
