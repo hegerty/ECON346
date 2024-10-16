@@ -33,7 +33,7 @@ Here are the YouTube videos and the corresponding .R files (numbered by lecture)
    [Using R to Visualize the Poisson Distribution](https://youtu.be/wa9BWALlhOQ) &nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec07d_PoissonDist.R)]    
     [Using R to Visualize the F-Distribution](https://youtu.be/xdFnBoKsjHM) &nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec07d_PoissonDist.R)]    
    [Using dnorm() to compare the Normal and T-distributions in R](https://youtu.be/tRLoUgwFopk)&nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec07f_dnorm.R)]  
-8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)&nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec08_ttest.R) &nbsp;&nbsp; [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
+8. [Simple T-Tests in R](https://youtu.be/1bK34Of2v6g)&nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec08_ttest.R)] &nbsp;&nbsp; [.pdf: [A concise summary of statistical concepts](https://cbmm.mit.edu/sites/default/files/documents/probability_handout.pdf)] 
 
 9. [Regression Analysis in R](https://youtu.be/qN_ulTayz2U)  &nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec09_Regression.R)]                                                  
    [Calculating a Simple (Nonparametric) Regression Slope Coefficient in R](https://youtu.be/_MD-y3djXlc)  &nbsp;&nbsp; [[.R File](https://github.com/hegerty/ECON346/blob/main/Lec09b_nonparbeta.R)]                    
